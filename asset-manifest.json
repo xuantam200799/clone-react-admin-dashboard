@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/clone-react-admin-dashboard/static/css/main.4268b3a4.chunk.css",
+    "main.js": "/clone-react-admin-dashboard/static/js/main.026f6ada.chunk.js",
+    "main.js.map": "/clone-react-admin-dashboard/static/js/main.026f6ada.chunk.js.map",
+    "runtime-main.js": "/clone-react-admin-dashboard/static/js/runtime-main.11fc8da9.js",
+    "runtime-main.js.map": "/clone-react-admin-dashboard/static/js/runtime-main.11fc8da9.js.map",
+    "static/js/2.37f6a9cc.chunk.js": "/clone-react-admin-dashboard/static/js/2.37f6a9cc.chunk.js",
+    "static/js/2.37f6a9cc.chunk.js.map": "/clone-react-admin-dashboard/static/js/2.37f6a9cc.chunk.js.map",
+    "static/js/3.9abcaa9c.chunk.js": "/clone-react-admin-dashboard/static/js/3.9abcaa9c.chunk.js",
+    "static/js/3.9abcaa9c.chunk.js.map": "/clone-react-admin-dashboard/static/js/3.9abcaa9c.chunk.js.map",
+    "index.html": "/clone-react-admin-dashboard/index.html",
+    "static/css/main.4268b3a4.chunk.css.map": "/clone-react-admin-dashboard/static/css/main.4268b3a4.chunk.css.map",
+    "static/js/2.37f6a9cc.chunk.js.LICENSE.txt": "/clone-react-admin-dashboard/static/js/2.37f6a9cc.chunk.js.LICENSE.txt",
+    "static/media/avatar.5198f3a0.jpg": "/clone-react-admin-dashboard/static/media/avatar.5198f3a0.jpg",
+    "static/media/boxicons.min.css": "/clone-react-admin-dashboard/static/media/boxicons.cbd149c5.ttf",
+    "static/media/logo.ef7bfcda.png": "/clone-react-admin-dashboard/static/media/logo.ef7bfcda.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11fc8da9.js",
+    "static/js/2.37f6a9cc.chunk.js",
+    "static/css/main.4268b3a4.chunk.css",
+    "static/js/main.026f6ada.chunk.js"
+  ]
+}
